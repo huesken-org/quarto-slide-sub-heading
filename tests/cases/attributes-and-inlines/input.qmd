@@ -1,0 +1,5 @@
+## Formatting {#slide .extra}
+
+### `go build` and **bold** {#sub .highlight key="value"}
+
+Attributes survive, the inline formatting of the title does not.

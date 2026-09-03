@@ -1,0 +1,7 @@
+# Setup
+
+## Networking
+
+### DNS
+
+On a web page the outline stays as written.

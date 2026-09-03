@@ -1,0 +1,20 @@
+--- exit 0
+--- stdout
+[ Header
+    2
+    ( "first-slide" , [] , [] )
+    [ Str "First" , Space , Str "slide" ]
+, Header
+    2
+    ( "sub-heading-a" , [] , [] )
+    [ Str "First slide - Sub-heading A" ]
+, Header
+    2
+    ( "second-slide" , [] , [] )
+    [ Str "Second" , Space , Str "slide" ]
+, Header
+    2
+    ( "sub-heading-b" , [] , [] )
+    [ Str "Second slide - Sub-heading B" ]
+]
+--- stderr

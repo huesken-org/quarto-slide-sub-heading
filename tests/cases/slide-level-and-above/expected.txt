@@ -1,0 +1,27 @@
+--- exit 0
+--- stdout
+[ Header 1 ( "chapter" , [] , [] ) [ Str "Chapter" ]
+, Header 2 ( "slide" , [] , [] ) [ Str "Slide" ]
+, Para
+    [ Str "At"
+    , Space
+    , Str "and"
+    , Space
+    , Str "above"
+    , Space
+    , Str "the"
+    , Space
+    , Str "slide"
+    , Space
+    , Str "level"
+    , Space
+    , Str "everything"
+    , Space
+    , Str "is"
+    , Space
+    , Str "left"
+    , Space
+    , Str "untouched."
+    ]
+]
+--- stderr

@@ -1,0 +1,36 @@
+--- exit 0
+--- stdout
+[ Header 2 ( "slide" , [] , [] ) [ Str "Slide" ]
+, Header
+    2
+    ( "two-levels-deeper" , [] , [] )
+    [ Str "Slide - Two levels deeper" ]
+, Para
+    [ Str "Level"
+    , Space
+    , Str "3"
+    , Space
+    , Str "is"
+    , Space
+    , Str "missing"
+    , Space
+    , Str "and"
+    , Space
+    , Str "therefore"
+    , Space
+    , Str "does"
+    , Space
+    , Str "not"
+    , Space
+    , Str "show"
+    , Space
+    , Str "up"
+    , Space
+    , Str "in"
+    , Space
+    , Str "the"
+    , Space
+    , Str "title."
+    ]
+]
+--- stderr

@@ -1,0 +1,29 @@
+--- exit 0
+--- stdout
+[ Header 2 ( "chapter" , [] , [] ) [ Str "Chapter" ]
+, Header 3 ( "slide" , [] , [] ) [ Str "Slide" ]
+, Header
+    3 ( "sub-heading" , [] , [] ) [ Str "Slide - Sub-heading" ]
+, Para
+    [ Code ( "" , [] , [] ) "slide-level: 3"
+    , Space
+    , Str "moves"
+    , Space
+    , Str "the"
+    , Space
+    , Str "slide"
+    , Space
+    , Str "level:"
+    , Space
+    , Str "only"
+    , Space
+    , Str "level"
+    , Space
+    , Str "4"
+    , Space
+    , Str "is"
+    , Space
+    , Str "flattened."
+    ]
+]
+--- stderr

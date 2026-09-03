@@ -1,0 +1,25 @@
+--- exit 0
+--- stdout
+[ Header 1 ( "setup" , [] , [] ) [ Str "Setup" ]
+, Header 2 ( "networking" , [] , [] ) [ Str "Networking" ]
+, Para [ Str "Slide" , Space , Str "text." ]
+, Header 2 ( "dns" , [] , [] ) [ Str "Networking - DNS" ]
+, Para
+    [ Str "Its"
+    , Space
+    , Str "own"
+    , Space
+    , Str "slide,"
+    , Space
+    , Str "with"
+    , Space
+    , Str "the"
+    , Space
+    , Str "parent"
+    , Space
+    , Str "title"
+    , Space
+    , Str "prefixed."
+    ]
+]
+--- stderr

@@ -1,0 +1,31 @@
+--- exit 0
+--- stdout
+[ Header
+    2 ( "slide" , [ "extra" ] , [] ) [ Str "Formatting" ]
+, Header
+    2
+    ( "sub" , [ "highlight" ] , [ ( "key" , "value" ) ] )
+    [ Str "Formatting - go build and bold" ]
+, Para
+    [ Str "Attributes"
+    , Space
+    , Str "survive,"
+    , Space
+    , Str "the"
+    , Space
+    , Str "inline"
+    , Space
+    , Str "formatting"
+    , Space
+    , Str "of"
+    , Space
+    , Str "the"
+    , Space
+    , Str "title"
+    , Space
+    , Str "does"
+    , Space
+    , Str "not."
+    ]
+]
+--- stderr

@@ -1,0 +1,11 @@
+---
+slide-level: 3
+---
+
+## Chapter
+
+### Slide
+
+#### Sub-heading
+
+`slide-level: 3` moves the slide level: only level 4 is flattened.

@@ -1,0 +1,26 @@
+--- exit 0
+--- stdout
+[ Header 1 ( "setup" , [] , [] ) [ Str "Setup" ]
+, Header 2 ( "networking" , [] , [] ) [ Str "Networking" ]
+, Header 3 ( "dns" , [] , [] ) [ Str "DNS" ]
+, Para
+    [ Str "On"
+    , Space
+    , Str "a"
+    , Space
+    , Str "web"
+    , Space
+    , Str "page"
+    , Space
+    , Str "the"
+    , Space
+    , Str "outline"
+    , Space
+    , Str "stays"
+    , Space
+    , Str "as"
+    , Space
+    , Str "written."
+    ]
+]
+--- stderr

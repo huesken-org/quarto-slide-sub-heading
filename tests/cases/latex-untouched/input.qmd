@@ -1,0 +1,7 @@
+# Setup
+
+## Networking
+
+### DNS
+
+The outline stays as written.
